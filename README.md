@@ -5,7 +5,7 @@ This repository is intended to be used for testing Konveyor builds during CI.
 
 ## Building the application
 
-The application has a dependency with the _corporate_ configuration-utils library. An artifact for that library has been made available using GitHub Packages in this repository and its source code is available under the _configuration-utils_ directory. [Since the Maven repository service from GitHub doesn't allow anonymous access for the moment](https://github.com/orgs/community/discussions/26634#discussioncomment-3252637), a settings.xml file like the following is required to build the application:
+The application has a dependency with the _corporate_ configuration-utils library. An artifact for that library has been made available using GitHub Packages in this repository and its source code is available under the _configuration-utils_ directory. [Since the Maven repository service from GitHub doesn't allow anonymous access for public packages for the moment](https://github.com/orgs/community/discussions/26634#discussioncomment-3252637), a settings.xml file like the following is required to build the application:
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
