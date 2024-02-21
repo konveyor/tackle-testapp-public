@@ -172,5 +172,8 @@
 		<url>https://maven.pkg.github.com/konveyor/tackle-testapp-public</url>
 	</repository>
 </repositories>
+<modules>
+	<module>foo</module>
+</modules>
 
 </project>
