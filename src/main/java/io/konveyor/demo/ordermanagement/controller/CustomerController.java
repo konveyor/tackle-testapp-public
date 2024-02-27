@@ -3,7 +3,7 @@ package io.konveyor.demo.ordermanagement.controller;
 import java.io.ByteArrayOutputStream;
 import java.io.OutputStream;
 
-import java.xml.bind.JAXB;
+import javax.xml.bind.JAXB;
 
 import org.jboss.logging.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -37,6 +37,7 @@ public class CustomerController {
 		}
 		JAXB.marshal(c, opt);
 		logger.debug("Returning element: " + c);
+		logger.debug("testing" + jws.IN);
 
 
 		return c;
