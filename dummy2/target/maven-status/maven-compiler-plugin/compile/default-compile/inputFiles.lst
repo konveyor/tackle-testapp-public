@@ -1,9 +1,0 @@
-/Users/shurley/repos/MTA/tackle-testapp-public/dummy2/src/main/java/io/konveyor/demo/ordermanagement/config/WebConfig.java
-/Users/shurley/repos/MTA/tackle-testapp-public/dummy2/src/main/java/io/konveyor/demo/ordermanagement/exception/handler/ExceptionHandlingController.java
-/Users/shurley/repos/MTA/tackle-testapp-public/dummy2/src/main/java/io/konveyor/demo/ordermanagement/exception/ResourceNotFoundException.java
-/Users/shurley/repos/MTA/tackle-testapp-public/dummy2/src/main/java/io/konveyor/demo/ordermanagement/config/PersistenceConfig.java
-/Users/shurley/repos/MTA/tackle-testapp-public/dummy2/src/main/java/io/konveyor/demo/ordermanagement/controller/CustomerController.java
-/Users/shurley/repos/MTA/tackle-testapp-public/dummy2/src/main/java/io/konveyor/demo/ordermanagement/service/CustomerService.java
-/Users/shurley/repos/MTA/tackle-testapp-public/dummy2/src/main/java/io/konveyor/demo/ordermanagement/repository/CustomerRepository.java
-/Users/shurley/repos/MTA/tackle-testapp-public/dummy2/src/main/java/io/konveyor/demo/ordermanagement/model/Customer.java
-/Users/shurley/repos/MTA/tackle-testapp-public/dummy2/src/main/java/io/konveyor/demo/ordermanagement/OrderManagementAppInitializer.java
